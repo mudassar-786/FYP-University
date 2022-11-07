@@ -1,0 +1,15 @@
+ADMIN
+hajvery@hup.com
+hupeuro33
+
+STUDENT
+mudassarazhar38@gmail.com
+54321
+admission@hup.edu
+54321
+
+STAFF
+admission@hup.edu.pk
+54321
+sparrow@gmail.com
+54321
